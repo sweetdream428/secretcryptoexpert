@@ -65,7 +65,10 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 <a href="https://www.linkedin.com/in/david-chen-248828233/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+
 ## 📊 Github Stats
+
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
     <br/>
   <br/>
@@ -87,6 +90,7 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 <br/>
 <br/>
 <br/>
+
 
 ## :trophy: Git profile Trophies
 
