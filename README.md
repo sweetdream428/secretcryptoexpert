@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Blockchain+Developer;Full+Stack+Developer;Front+End+Developer;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"I am a senior blockchain developer with a solid background in different programming areas. Looking to take a part in a challenging project related to blockchain and cryptocurrencies. I have a good understanding of decentralized technologies.</h4>
+<h4 align="center">I am a senior blockchain developer with a solid background in different programming areas. Looking to take a part in a challenging project related to blockchain and cryptocurrencies. I have a good understanding of decentralized technologies.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
