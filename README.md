@@ -28,10 +28,6 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
     <br/>
   <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidchen95&layout=compact&theme=highcontrast)](https://github.com/davidchen95/)
-
-![davidchen95's github stats](https://github-readme-stats.vercel.app/api?username=davidchen95&count_private=true&show_icons=true&theme=highcontrast)
   <p align="center">
     <a href="https://github.com/davidchen95/github-readme-stats"><img alt="davidchen95's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidchen95&show_icons=true&count_private=true&theme=highcontrast" height="192px"/></a>
 <br/><br/>
