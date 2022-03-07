@@ -23,9 +23,8 @@
 
 <br>
 
-[![Zen's GitHub stats](https://zen-code-stats.vercel.app/api?username=davidchen95&count_private=true&theme=dracula&show_icons=true)](https://github.com/davidchen95)
-
-[![Top Langs](https://zen-code-stats.vercel.app/api/top-langs/?username=davidchen95&theme=dracula&show_icons=true&hide=css,html&langs_count=4&layout=compact&card_width=445)](https://github.com/davidchen95)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devidchen95&layout=compact&theme=highcontrast)](https://github.com/devidchen95/)
+![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=devidchen95&count_private=true&show_icons=true&theme=highcontrast)
 
 <!---
 STAR-DEV95/STAR-DEV95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
