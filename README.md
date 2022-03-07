@@ -66,7 +66,7 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 </p>
 
 ## 📊 Github Stats
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+###  <summary><b>💻 GitHub Profile Stats</b></summary>
     <br/>
   <br/>
   <p align="center">
@@ -85,7 +85,7 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 </p>
 <br>
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+###<summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
  <a href="https://github.com/davidchen95"><img alt="davidchen95's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=davidchen95&custom_title=davidchen95's%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
