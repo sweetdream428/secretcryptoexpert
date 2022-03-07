@@ -5,6 +5,11 @@
 
    Passionate and skilled Blockchain Developer && Full-stack Developer offering 5+ years of relevant experience and a proven track record of success in achieving extraordinary results. With strong attention to detail and accuracy and the important ability to function well in a team setting, David is looking for a Blockchain Developer job within a forward-moving company.
 With experience using JavaScript and its frameworks, in particular, React, to create and implement web applications, I am confident I will be a valuable asset to your organization.
+I am learning rust again recently!😭
+
+[![Zen's GitHub stats](https://zen-code-stats.vercel.app/api?username=gavin-gong&count_private=true&theme=dracula&show_icons=true)](https://github.com/gavin-gong)
+
+[![Top Langs](https://zen-code-stats.vercel.app/api/top-langs/?username=gavin-gong&theme=dracula&show_icons=true&hide=css,html&langs_count=4&layout=compact&card_width=445)](https://github.com/gavin-gong)
 
 <!---
 STAR-DEV95/STAR-DEV95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
