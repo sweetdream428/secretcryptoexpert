@@ -13,9 +13,10 @@
 
 <br><br>
 
-I am a senior blockchain developer with a solid backgroundin different programming areas. Looking to take a part in a challenging project
-related to blockchain and cryptocurrencies.
-I have a good understanding of decentralized technologies such as Ethereum, Binance, Avalanche, and Polygon and have done many projects in those fields. I have a lot of experience and practical expertise in smart contract development, creating tests for Ethereum.
+- 👨🏽‍💻 I’m currently working on Blockchain project;
+- 🌱 I’m currently learning Rust; 
+- 💬 Ask me about anything, I am happy to help;
+- 📝[Resume](https://cvdesignr.com/p/62240a5eec027)
 <br>
 
 #
