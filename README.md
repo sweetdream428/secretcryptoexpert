@@ -45,9 +45,12 @@
   <br/>
    <a href="https://github.com/davidchen95"><img alt="davidchen95's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=davidchen95&custom_title=davidchen95's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-
 <br/>
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
 <!---
