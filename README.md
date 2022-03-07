@@ -7,11 +7,21 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
     
-- 👀 About me
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-   Passionate and skilled Blockchain Developer && Full-stack Developer offering 5+ years of relevant experience and a proven track record of success in achieving extraordinary results. With strong attention to detail and accuracy and the important ability to function well in a team setting, David is looking for a Blockchain Developer job within a forward-moving company.
-With experience using JavaScript and its frameworks, in particular, React, to create and implement web applications, I am confident I will be a valuable asset to your organization.
-I am learning rust again recently!😭
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+
+<br><br>
+
+- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+- :trophy: `ACPC` Finalist 2021
+- :technologist: I love using Software as a solution for every `Problem`
+- :computer: I am a competitive programmer mainly at `Codeforces`
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :nerd_face: Always `learning new things`
+
+<br>
 
 [![Zen's GitHub stats](https://zen-code-stats.vercel.app/api?username=davidchen95&count_private=true&theme=dracula&show_icons=true)](https://github.com/davidchen95)
 
