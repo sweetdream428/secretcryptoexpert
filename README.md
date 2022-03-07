@@ -80,12 +80,8 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<br>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
  <a href="https://github.com/davidchen95"><img alt="davidchen95's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=davidchen95&custom_title=davidchen95's%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
@@ -95,6 +91,13 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidchen95&layout=compact&theme=algolia" alt="davidchen95" /></a> </p>
+
+
+<p align="center">
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
+
 <!-- https://github.com/Ayan-thecodeking/akshitagupta15june/blob/output/github-contribution-grid-snake.gif?raw=true -->
 <!---
 STAR-DEV95/STAR-DEV95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
