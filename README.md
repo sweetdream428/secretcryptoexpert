@@ -24,8 +24,31 @@
 
 <br>
 
-## <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> My activities
+## 📊 Github Stats
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+    <br/>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/><br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+  <br/>
+<br/>
 
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidchen95&layout=compact&theme=highcontrast)](https://github.com/davidchen95/)
 ![davidchen95's github stats](https://github-readme-stats.vercel.app/api?username=davidchen95&count_private=true&show_icons=true&theme=highcontrast)
 
