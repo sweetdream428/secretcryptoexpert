@@ -32,9 +32,6 @@
 related to blockchain and cryptocurrencies.
 I have a good understanding of decentralized technologies such as Ethereum, Binance, Avalanche, and Polygon and have done many projects in those fields. I have a lot of experience and practical expertise in smart contract development, creating tests for Ethereum.
 <br>
-
-#
-
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
