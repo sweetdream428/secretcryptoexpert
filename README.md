@@ -15,7 +15,19 @@
 <img align="right" src="https://img.shields.io/github/followers/davidchen95?label=Follow&style=social" />
 <h1 align="center"></h1>
 <br>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+    <br/>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/davidchen95/github-readme-stats"><img alt="davidchen95's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidchen95&show_icons=true&count_private=true&theme=highcontrast" height="192px"/></a>
+<br/><br/>
+  &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidchen95&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="davidchen95" height="192px"/>
+  <br/>
+<br/>
 
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
@@ -94,19 +106,7 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 ## 📊 Github Stats
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-    <br/>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/davidchen95/github-readme-stats"><img alt="davidchen95's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidchen95&show_icons=true&count_private=true&theme=highcontrast" height="192px"/></a>
-<br/><br/>
-  &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidchen95&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="davidchen95" height="192px"/>
-  <br/>
-<br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 
 
 ## :trophy: Git profile Trophies
