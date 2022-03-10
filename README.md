@@ -89,7 +89,6 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidchen95&layout=compact&theme=algolia" alt="davidchen95" width="700px"/></a> </p>
 
 
