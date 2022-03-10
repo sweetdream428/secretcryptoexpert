@@ -86,9 +86,7 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 <a href="https://github.com/davidchen95"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/david-chen-248828233/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
 ## :trophy: Git profile Trophies
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidchen95&layout=compact&theme=algolia" alt="davidchen95" /></a> </p>
 
 
