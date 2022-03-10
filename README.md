@@ -40,18 +40,6 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
-<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
-<code><img height="40" width="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
-<code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-
-#
 <table>
   <tr>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
@@ -96,6 +84,19 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="200"></td>
   </tr>
 </table>
+<code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
+<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
+<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
+#
+
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
