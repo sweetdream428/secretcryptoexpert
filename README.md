@@ -11,11 +11,11 @@
   <a href="https://join.skype.com/invite/zqVb0AjH4liM"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 </h1>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=davidchen95.davidchen95" />
-<img align="right" src="https://img.shields.io/github/followers/davidchen95?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=davidtm95.davidtm95" />
+<img align="right" src="https://img.shields.io/github/followers/davidtm95?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=davidchen95&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidchen95&layout=compact&theme=monokai&count_private=true">
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=davidtm95&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtm95&layout=compact&theme=monokai&count_private=true">
 <img height="150px" />
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
