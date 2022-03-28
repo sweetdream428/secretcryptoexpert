@@ -13,8 +13,8 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=davidtm95.davidtm95" />
 <img align="right" src="https://img.shields.io/github/followers/davidtm95?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=davidtm95&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtm95&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=davidtm95&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtm95&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
