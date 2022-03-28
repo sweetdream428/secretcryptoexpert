@@ -16,8 +16,8 @@
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=davidtm95&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtm95&layout=compact&theme=monokai&count_private=true">
 <img height="150px" />
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Legendary0326&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary0326&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=davidtm95&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtm95&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
