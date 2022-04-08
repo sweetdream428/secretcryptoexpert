@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi , I'm David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> 👋 Hi , I'm a Senior Blockchain Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=BlockChain%20Developer;Full%20Stack%2Developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=davidtm95.davidtm95" />
-<img align="right" src="https://img.shields.io/github/followers/davidtm95?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=secretcryptoexpert.secretcryptoexpert" />
+<img align="right" src="https://img.shields.io/github/followers/secretcryptoexpert?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=DavidTM95&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTM95&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=secretcryptoexpert&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secretcryptoexpert&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
@@ -25,7 +25,6 @@
 - 👨🏽‍💻 I’m currently working on Blockchain project;
 - 🌱 I’m currently learning Rust; 
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Resume](https://cvdesignr.com/p/62240a5eec027)
 - I am a senior blockchain developer with a solid backgroundin different programming areas. Looking to take a part in a challenging project
 related to blockchain and cryptocurrencies.
 I have a good understanding of decentralized technologies such as Ethereum, Binance, Avalanche, and Polygon and have done many projects in those fields. I have a lot of experience and practical expertise in smart contract development, creating tests for Ethereum.
@@ -80,14 +79,14 @@ I have a good understanding of decentralized technologies such as Ethereum, Bina
 <a target="_blank"><img align="left" height="250" width="250" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-<a href="davidtm95:davidchen950106@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/davidtm95"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="secretcryptoexpert:davidchen950106@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/secretcryptoexpert"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/david-chen-248828233/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidtm95&layout=compact&theme=algolia" alt="davidtm95" width="700px"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=secretcryptoexpert&layout=compact&theme=algolia" alt="secretcryptoexpert" width="700px"/></a> </p>
 
 
 <p align="center">
